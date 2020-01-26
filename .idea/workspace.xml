@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd5887cd-a046-49c5-aeee-426af4418699" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go@1.9/1.9.7/libexec" />
+  <component name="ProjectId" id="1WjhZ3QJhjZ2gdqkghhPFpX5Rhj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build AoLiGei/functional">
+    <configuration name="go build AoLiGei/Interface" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AoLiGei" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Interface/interface.go" />
+      <package value="AoLiGei/Interface" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build AoLiGei/Object" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AoLiGei" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Object/TreeNode.go" />
+      <package value="AoLiGei/Object" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build AoLiGei/Queue" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AoLiGei" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Queue/Queue.go" />
+      <package value="AoLiGei/Queue" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build AoLiGei/functional" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AoLiGei" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/functional/fib.go" />
+      <package value="AoLiGei/functional" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build AoLiGei/functional/adder" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AoLiGei" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/functional/adder/adder.go" />
+      <package value="AoLiGei/functional/adder" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build AoLiGei/functional" />
+        <item itemvalue="Go Build.go build AoLiGei/functional/adder" />
+        <item itemvalue="Go Build.go build AoLiGei/Interface" />
+        <item itemvalue="Go Build.go build AoLiGei/Queue" />
+        <item itemvalue="Go Build.go build AoLiGei/Object" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="73" key="#Inspections" timestamp="1580023622203">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="640" y="73" key="#Inspections/0.23.1440.809@0.23.1440.809" timestamp="1580023622203" />
+    <state x="954" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1579767869358">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="954" y="130" key="#com.intellij.ide.util.MemberChooser/0.23.1440.809@0.23.1440.809" timestamp="1579767869358" />
+    <state x="447" y="174" key="EditFileWatcherDialog" timestamp="1579755026572">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="447" y="174" key="EditFileWatcherDialog/0.23.1440.809@0.23.1440.809" timestamp="1579755026572" />
+    <state width="725" height="171" key="GridCell.Tab.0.bottom" timestamp="1580027893366">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="725" height="171" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1580027893366" />
+    <state width="725" height="171" key="GridCell.Tab.0.center" timestamp="1580027893364">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="725" height="171" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1580027893364" />
+    <state width="725" height="171" key="GridCell.Tab.0.left" timestamp="1580027893364">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="725" height="171" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1580027893364" />
+    <state width="725" height="171" key="GridCell.Tab.0.right" timestamp="1580027893365">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="725" height="171" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1580027893365" />
+    <state width="1180" height="250" key="GridCell.Tab.1.bottom" timestamp="1579754957339">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1180" height="250" key="GridCell.Tab.1.bottom/0.23.1440.809@0.23.1440.809" timestamp="1579754957339" />
+    <state width="1180" height="250" key="GridCell.Tab.1.center" timestamp="1579754957337">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1180" height="250" key="GridCell.Tab.1.center/0.23.1440.809@0.23.1440.809" timestamp="1579754957337" />
+    <state width="1180" height="250" key="GridCell.Tab.1.left" timestamp="1579754957337">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1180" height="250" key="GridCell.Tab.1.left/0.23.1440.809@0.23.1440.809" timestamp="1579754957337" />
+    <state width="1180" height="250" key="GridCell.Tab.1.right" timestamp="1579754957338">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1180" height="250" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1579754957338" />
+    <state x="335" y="32" key="SettingsEditor" timestamp="1579755050952">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="335" y="32" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1579755050952" />
+    <state x="757" y="57" width="683" height="729" key="find.popup" timestamp="1579670703322">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="757" y="57" width="683" height="729" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1579670703322" />
+    <state x="928" y="156" key="search.everywhere.popup" timestamp="1579669978718">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="928" y="156" key="search.everywhere.popup/0.23.1440.809@0.23.1440.809" timestamp="1579669978718" />
+  </component>
+</project>
