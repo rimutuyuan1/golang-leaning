@@ -36,4 +36,5 @@ func printFileContents(reader io.Reader) {
 
 func main() {
 	//fmt.Println(printFileContents())
+	fmt.Sprintf("你好")
 }
