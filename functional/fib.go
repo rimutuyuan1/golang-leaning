@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"io"
+	"os"
 	"strings"
 )
 
@@ -35,6 +36,15 @@ func printFileContents(reader io.Reader) {
 }
 
 func main() {
-	//fmt.Println(printFileContents())
-	fmt.Sprintf("你好")
+	create, err := os.Create("fib.txt")
+	if err != nil {
+		panic("error")
+	}
+	defer create.Close()
+	writer := bufio.NewWriter(create)
+	defer writer.Flush()
+	f := fibonacci()
+	for i := 0; i < 20; i++ {
+		fmt.Fprintln(writer, f())
+	}
 }
